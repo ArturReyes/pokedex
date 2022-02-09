@@ -6,7 +6,6 @@ An interactive encyclopedia encompassing data on the various mythical creatures 
 
 ![Pokédex Preview](https://i.ibb.co/hFQkytq/demo-gif.gif)
 
-See their might, hear them roar, and ultimately learn more about each of the beasts that reside throughout the region.
 
 ## Installation
 
