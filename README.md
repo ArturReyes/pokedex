@@ -2,7 +2,7 @@
 
 An interactive encyclopedia encompassing data on the various mythical creatures found throughout the world of the universally-loved, multimedia sensation that is Pokémon. 
 
-[Try it out here!](https://rs-arturo.github.io/pokedex/)
+[Try it out here!](https://bulbapedia.netlify.app/)
 
 ![Pokédex Preview](https://i.ibb.co/hFQkytq/demo-gif.gif)
 
